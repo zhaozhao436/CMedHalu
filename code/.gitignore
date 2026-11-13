@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+data/
+models/
+checkpoints/
+results/
+*.jsonl
+*.xlsx
+*.pt
+*.safetensors

@@ -1,0 +1,10 @@
+jsonlines
+numpy
+tqdm
+pandas
+scikit-learn
+sacrebleu
+transformers
+torch
+accelerate
+sentencepiece
