@@ -1,6 +1,4 @@
-# CMedHalu：中文医疗大模型幻觉检测基准
-
-**CMedHalu: A Chinese Medical Hallucination Detection Benchmark for Large Language Models**
+# CMedHalu: A Chinese Medical Hallucination Detection Benchmark for Large Language Models
 
 面向中文医疗文本的细粒度事实幻觉评测基准，覆盖**幻觉识别、类型分类、错误定位与事实纠正**完整流程。
 
