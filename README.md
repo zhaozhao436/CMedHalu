@@ -60,6 +60,3 @@
 ## 论文
 
 **论文题目：** CMedHalu: A Chinese Medical Hallucination Detection Benchmark for Large Language Models
-
-
-本页依据论文修订稿整理；正式书目信息及引用格式以最终发表版本为准。
